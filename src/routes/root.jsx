@@ -81,8 +81,8 @@ export default function Root() {
             </Form>
           </div>
           <div className="data-res">
-            <h4 style={{ color: "blue" }}>
-              <NavLink to={`data`}>Click to send data</NavLink>
+            <h4 style={{ color: "blue" }}> 
+              <NavLink to={`data`}>Click to send data asjdahsjdkjs</NavLink>
             </h4>
           </div>
           {/* other code */}
